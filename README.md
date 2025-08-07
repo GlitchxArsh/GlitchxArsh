@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlitchxArsh
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Web development and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... through Email
 - 😄 Pronouns: ... he/him
